@@ -10,7 +10,7 @@ Previously worked as a Software Specialist, and I am an experienced Software Dev
 
 ## Tech and Tools
 
-<img src="https://skillicons.dev/icons?i=git,docker,java,nginx,nodejs,tailwind,babel,webpack,redux,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=git,docker,java,nginx,nodejs,tailwind,babel,webpack,redux,postgresql,firebase,typescript,javascript" />
 
 
 ## Contact
