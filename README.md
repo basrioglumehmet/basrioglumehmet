@@ -1,52 +1,30 @@
-# Merhaba, Ben Mehmet! 👋
+### Wassup! I'm Mehmet 👋
 
-## Hakkımda
+## About Me
 
-Ben Mehmet, deneyimli bir yazılım geliştiricisiyim. C#, TypeScript, React JS ve Node.js gibi modern teknolojilerle çalışmaktan keyif alıyorum. Yazılım geliştirme sürecinde kaliteli kod yazma ve temiz mimari kurma konularında tutkuluyum. Yeni teknolojileri öğrenmek ve kendimi sürekli geliştirmek benim için çok önemli.
+Previously worked as a Software Specialist, and I am an experienced Software Developer specializing in both Backend and Frontend development. I'm passionate about writing high-quality code and building clean architecture. Driven by innovation, I am always focused on self-improvement and committed to continuous learning.
 
-- 🌍 **Konum**: Bulgaristan, Shumen & Türkiye, İstanbul
-- 💼 **Mevcut İş Durumu**: Boşta
-- 📧 **İletişim**: basrioglumehmet@gmail.com
+- 🌍 **Location**: Bulgaria, Shumen & Türkiye, İstanbul
+- 💼 **Current Job**: Idle
+- 📧 **Communication**: basrioglumehmet@gmail.com
 
-## Teknolojiler ve Araçlar
+## Tech and Tools
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## GitHub İstatistikleri
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=basrioglumehmet&show_icons=true" alt="GitHub İstatistikleri" />
-    </td>
-    <td style="width: 10px; text-align: center;">
-      |
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basrioglumehmet&layout=compact" alt="En Çok Kullanılan Diller" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,docker,java,nginx,nodejs,tailwind,babel,webpack,redux,postgresql,firebase" />
 
 
-## Bana Ulaşın
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/mehmetbasrioglu/)
 - [Email](mailto:basrioglumehmet@gmail.com)
 
-## İlgi Alanlarım
+## Field of Interest
 
-- **Yazılım Geliştirme**
-- **Yeni Teknolojiler ve Trendler**
-- **Kitap Okuma**
----
+- **Software development**
+- **Modern development trends**
+- **Book and travel**
 
-### Ek Notlar
-- Açık kaynak projelere katkıda bulunmayı seviyorum.
-- Takım çalışmasına yatkınım ve işbirliğini önemsiyorum.
+### Extra Notes
+- Open source  supporter
+- Teamworker and collaborator
 
